@@ -1,0 +1,8 @@
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorHost\bin\Debug\ClaimsEnumeratorHost.exe.config
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorHost\bin\Debug\ClaimsEnumeratorHost.exe
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorHost\bin\Debug\ClaimsEnumeratorHost.pdb
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorHost\bin\Debug\ClaimsEnumeratorService.dll
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorHost\bin\Debug\ClaimsEnumeratorService.pdb
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorHost\obj\x86\Debug\ClaimsEnumeratorHost.exe
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorHost\obj\x86\Debug\ClaimsEnumeratorHost.pdb

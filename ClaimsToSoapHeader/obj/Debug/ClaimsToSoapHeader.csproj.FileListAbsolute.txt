@@ -1,0 +1,5 @@
+C:\Projects\Research\ADFSWIF\ClaimsToSoapHeader\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Research\ADFSWIF\ClaimsToSoapHeader\bin\Debug\ClaimsToSoapHeader.dll
+C:\Projects\Research\ADFSWIF\ClaimsToSoapHeader\bin\Debug\ClaimsToSoapHeader.pdb
+C:\Projects\Research\ADFSWIF\ClaimsToSoapHeader\obj\Debug\ClaimsToSoapHeader.dll
+C:\Projects\Research\ADFSWIF\ClaimsToSoapHeader\obj\Debug\ClaimsToSoapHeader.pdb

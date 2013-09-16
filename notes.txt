@@ -1,0 +1,11 @@
+Working
+-------
+<microsoft.identityModel> in BTS config file + (config section declaration)
+The service element must be unnamed!!
+<service>
+The named service doesn't work:
+<service name="ClaimsEnumeratorService.ClaimsEnumerator">
+
+adding <microsoft.identityModel> to the endpoint config file (import/export on WCF-custom) is not recognized!
+adding <extensions> to the endpoint config file (import/export on WCF-custom) is not recognized! (must be added to the handler config)
+

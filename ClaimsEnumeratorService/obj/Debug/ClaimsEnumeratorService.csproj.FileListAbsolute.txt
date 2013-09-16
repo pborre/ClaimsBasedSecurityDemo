@@ -1,0 +1,6 @@
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorService\bin\Debug\ClaimsEnumeratorService.dll.config
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorService\bin\Debug\ClaimsEnumeratorService.dll
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorService\bin\Debug\ClaimsEnumeratorService.pdb
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorService\obj\Debug\ClaimsEnumeratorService.dll
+C:\Projects\Research\ADFSWIF\ClaimsEnumeratorService\obj\Debug\ClaimsEnumeratorService.pdb

@@ -1,0 +1,4 @@
+C:\Projects\Research\ADFSWIF\ClaimsBizTalkService\bin\Debug\ClaimsBizTalkService.dll
+C:\Projects\Research\ADFSWIF\ClaimsBizTalkService\bin\Debug\ClaimsBizTalkService.pdb
+C:\Projects\Research\ADFSWIF\ClaimsBizTalkService\obj\Debug\ClaimsBizTalkService.dll
+C:\Projects\Research\ADFSWIF\ClaimsBizTalkService\obj\Debug\ClaimsBizTalkService.pdb

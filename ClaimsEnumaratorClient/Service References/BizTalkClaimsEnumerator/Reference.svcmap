@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="24a8d0d0-9ff6-41d3-8739-4a13acc0c852" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/ClaimsBizTalkService/ClaimsBizTalkService_ClaimEnumerator_ClaimsBizTalkServicePort.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ClaimsBizTalkService_ClaimEnumerator_ClaimsBizTalkServicePort.xsd" MetadataType="Schema" ID="d0372b1e-d5a1-42c0-a3fe-00bf63277edc" SourceId="1" SourceUrl="http://devenv.pbdev.codit.eu/ClaimsBizTalkService/ClaimsBizTalkService_ClaimEnumerator_ClaimsBizTalkServicePort.svc?xsd=xsd2" />
+    <MetadataFile FileName="BizTalkServiceInstance.wsdl" MetadataType="Wsdl" ID="1969bc33-fbb7-4594-afba-f77dd9f9057a" SourceId="1" SourceUrl="http://devenv.pbdev.codit.eu/ClaimsBizTalkService/ClaimsBizTalkService_ClaimEnumerator_ClaimsBizTalkServicePort.svc?wsdl" />
+    <MetadataFile FileName="ClaimsBizTalkService_ClaimEnumerator_ClaimsBizTalkServicePort.disco" MetadataType="Disco" ID="05e6e1ec-3e23-4dc4-891d-436d698149d1" SourceId="1" SourceUrl="http://devenv.pbdev.codit.eu/ClaimsBizTalkService/ClaimsBizTalkService_ClaimEnumerator_ClaimsBizTalkServicePort.svc?disco" />
+    <MetadataFile FileName="ClaimsBizTalkService_ClaimEnumerator_ClaimsBizTalkServicePort1.xsd" MetadataType="Schema" ID="c4c15880-221d-4315-bac6-62ff502a948f" SourceId="1" SourceUrl="http://devenv.pbdev.codit.eu/ClaimsBizTalkService/ClaimsBizTalkService_ClaimEnumerator_ClaimsBizTalkServicePort.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
